@@ -1,0 +1,6 @@
+A01 MyTom 12 6
+A07 Sua 32 5
+A08 Duong 10 6
+A05 Thit 4 15
+A03 RauCai 10 20
+A012 muoi 4 14
